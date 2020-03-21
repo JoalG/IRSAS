@@ -1,4 +1,4 @@
-
+﻿
 
 /*Creación de las tablas de la base de datos*/
 
@@ -41,6 +41,7 @@ CREATE TABLE ASADA(
     DISTRITO_id                  INTEGER NOT NULL ,
     Latitud 					 VARCHAR (50),
     Longitud 					 VARCHAR (50),
+    Estado                      bit NOT NULL default 1,
     PRIMARY KEY ( ID )
   ) ;
 
@@ -78,7 +79,7 @@ CREATE TABLE INDICADOR(
 /*Tabla de Respuestas*/
 CREATE TABLE INDICADORXASADA(
     ID               INTEGER NOT NULL AUTO_INCREMENT,
-    Año              INTEGER NOT NULL ,
+    anno              INTEGER NOT NULL ,
     INDICADOR_ID     INTEGER NOT NULL ,
     ASADA_ID         varchar(20) NOT NULL,
     Valor            REAL(10,7) NOT NULL,
@@ -89,7 +90,7 @@ CREATE TABLE INDICADORXASADA(
   /*Tabla de Historico Respuestas*/
 CREATE TABLE HISTORICORESPUESTA(
     ID               INTEGER NOT NULL,
-    Año              INTEGER NOT NULL,
+    anno              INTEGER NOT NULL,
     INDICADOR_ID     INTEGER NOT NULL,
     ASADA_ID         varchar(20) NOT NULL,
     Valor            REAL(10,7) NOT NULL,
