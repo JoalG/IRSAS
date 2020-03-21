@@ -41,7 +41,7 @@ CREATE TABLE ASADA(
     DISTRITO_id                  INTEGER NOT NULL ,
     Latitud 					 VARCHAR (50),
     Longitud 					 VARCHAR (50),
-    Estado                      bit NOT NULL default 1,
+    Estado                       BOOLEAN NOT NULL default 1,
     PRIMARY KEY ( ID )
   ) ;
 
