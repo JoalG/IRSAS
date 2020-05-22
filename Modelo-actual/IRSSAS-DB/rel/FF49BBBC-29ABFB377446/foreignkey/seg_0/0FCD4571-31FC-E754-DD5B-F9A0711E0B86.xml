@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="0FCD4571-31FC-E754-DD5B-F9A0711E0B86" containerWithKeyObject="989F6BB3-CB88-0065-6718-1746FD9812F2" localFKIndex="DF3BF970-554E-568C-C219-237E45FCB328" name="SOLICITUDASADA_DISTRITO_FK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:52:03 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<referredTableLongName>DISTRITO</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>F0CF401A-0BD3-8800-2D78-F284FA27EB16</referredTableID>
+<keyObject>0A6B8B4F-24BE-190C-6806-3E6DDE252915</keyObject>
+<referredKeyID>0A6B8B4F-24BE-190C-6806-3E6DDE252915</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>Codigo</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

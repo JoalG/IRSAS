@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="27B97048-3966-2298-D700-5D15A9D6B17A" containerWithKeyObject="EFBF3DAD-0893-12F1-704C-3D83499F3A42" localFKIndex="90BA2DC4-A5AC-F9A0-4494-EACAC84A17FB" name="SOLICITUDUSUARIO_SOLICITUDASADA_FK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-28 18:32:00 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<referredTableLongName>SOLICITUDASADA</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>989F6BB3-CB88-0065-6718-1746FD9812F2</referredTableID>
+<keyObject>DF695CE3-BE04-EF51-9A33-6281227D5D84</keyObject>
+<referredKeyID>DF695CE3-BE04-EF51-9A33-6281227D5D84</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>ID</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

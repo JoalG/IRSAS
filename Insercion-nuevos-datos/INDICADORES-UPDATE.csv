@@ -1,0 +1,34 @@
+ID,Nombre
+1,¿Existe sistema de tratamiento individual de aguas negras en la comunidad? 
+2,¿Existe presencia de aguas grises en los caños de recolección de agua lluvia? 
+3,¿La población cuenta con alcantarillado pluvial? 
+4,¿La población tiene Planta de tratamiento de aguas residuales?
+5,Porcentaje (%) de liquidez para invertir en mejoras del acueducto.
+6,Porcentaje (%) Cobertura de recolección de residuos sólidos no valorizables.
+7,¿Existe recolección de residuos valorizables? 
+8,Producción per cápita de residuos sólidos
+9,"Inversión anual en Gestión Integral de Residuos Sólidos por persona por año en el cantón ($/persona/año) 
+"
+10,Inversión anual en la limpieza de vías y áreas comunes por persona en el cada cantón ($/persona/año)
+11,¿La ubicación de la captación está en área protegida o en zona de conservación?
+12,¿Está demarcada la zona de protección legalmente?
+13,¿Se cuenta con información del balance hídrico?
+14,"Consumo promedio de agua de la comunidad expresado en unidades de litros por persona por día 
+"
+15,¿La ASADA posee plan de atención integral de riesgos?
+16,¿Cuentan con programas para adaptación al cambio climático? 
+17,¿Posee registros de aforos de las fuentes de abastecimiento?
+18,¿Se diagnóstica el riesgo en los componentes del acueducto mediante la herramienta SERSA?
+19,¿La ASADA posee sistema de desinfección? 
+20,¿Posee planta potabilizadora? 
+21,¿Posee la ASADA sello de calidad sanitaria’ 
+22,Porcentaje (%) de Morosidad en el pago del servicio de agua
+23,Porcentaje (%) de agua no contabilizada 
+24,"Índice de Desarrollo Social en MIDEPLAN
+"
+25,"¿Posee distinción de Bandera Azul ecológica (en la comunidad, microcuencas y municipalidades)?"
+26,¿Los operadores han desarrollado programas de educación ambiental para la comunidad y los imparten regularmente (una vez al año)? 
+27,¿Posee su acueducto riesgo de inundación?
+28,¿Posee su acueducto riesgo de deslizamientos?
+29,¿Posee su acueducto riesgos volcánicos?
+30,¿Su acueducto está ubicado zonas sísmicas? 

@@ -1,0 +1,125 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="989F6BB3-CB88-0065-6718-1746FD9812F2" name="SOLICITUDASADA">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:26:22 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<ordsAlias>table_19</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID" id="7D369D3F-A284-D500-884B-3FE43FF3C37D">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:27:30 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NOMBRE" id="93B78E7A-D4B4-EEEC-B473-545DC17F43DF">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:37:16 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>150</dataTypeSize>
+<ownDataTypeParameters>150,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DISTRITO_ID" id="F5E493C4-FEE6-B34F-904C-22E3DA6D70B7">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:37:16 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<use>0</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<domain>0D967267-329B-CD46-2502-2C177A97F75B</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="0FCD4571-31FC-E754-DD5B-F9A0711E0B86" referredColumn="D6E37BD1-E51A-812C-B1DE-573DC83B65DA"/>
+</associations>
+</Column>
+<Column name="LATITUD" id="54994DCC-D214-FB54-A9DD-DEA44924F857">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:37:16 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="LONGITUD" id="F4D8BF14-766D-7D1C-10E9-376D07D0F655">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:37:16 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ASOCIACION" id="932A7C35-85C9-F2BC-CB89-CE1562E3799C">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:37:16 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PENDIENTE" id="93E329F6-27DC-B2BC-8977-425A7DF9D8FD">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:37:16 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT006</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="FECHAHORA" id="3143E330-0A12-C2B1-7010-4697923A7B9E">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:37:16 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="DF695CE3-BE04-EF51-9A33-6281227D5D84" name="SOLICITUDASADA_PK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:27:31 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7D369D3F-A284-D500-884B-3FE43FF3C37D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="DF3BF970-554E-568C-C219-237E45FCB328" name="SOLICITUDASADA_DISTRITO_FK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-03-27 22:52:03 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="F5E493C4-FEE6-B34F-904C-22E3DA6D70B7"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,36 @@
+INDICADOR_ID,AYUDA,URL
+1,Sistema de tratamiento se refiere a tanque séptico en el hogar,https://tecnube1.sharepoint.com/sites/IRSSAS/Documentos%20compartidos/General/Captura%20de%20Pantalla%202020-03-30%20a%20la(s)%2015.33.19.png
+2,"Aguas grises son las que provienen de las actividades de aseo, preparación de alimentos en los hogares y otras actividades.",
+3,Alcantarillado pluvial es sistema de tubería que recoge las aguas lluvias en la comunidad y las canaliza hasta los ríos.,https://tecnube1.sharepoint.com/sites/IRSSAS/Documentos%20compartidos/General/Captura%20de%20Pantalla%202020-03-30%20a%20la(s)%2015.37.23.png
+4,"Planta que reúne todas las aguas residuales de la comunidad para ser tratadas, con el fin de disminuir la contaminación en los ríos.",
+5,"Es la cantidad de efectivo que tiene la ASADA, para realizar mejoras en el acueducto, no considerar en esta respuesta, los gastos de operación rutinarios.",
+6,"Consultar en la Municipalidad de su Cantón cuál es el porcentaje de recolección de residuos sólidos (lo que recoge el camión de basura), en su comunidad.",
+7,"Consultar en su Municipalidad de su Cantón si se tiene recolección de residuos sólidos conocidos como reciclables (papel, vidrio, metales, plásticos, etc.)",
+8,"Consultar en su Municipalidad de su Cantón, cuál es la cantidad de residuos sólidos que se genera en su comunidad, expresado en unidades de kilogramos de residuos por día por persona (kg/persona/día)",
+9,"Consultar en la Municipalidad de su Cantón la cantidad de dinero que destina anualmente para el manejo de los residuos sólidos, note que debe estar en unidades de dólar al precio de la fecha en que se completa el cuestionario, este valor se divide entre la cantidad de personas del cantón.  ",
+10,"Consultar en la Municipalidad de su Cantón, la cantidad de dinero que se destina para la limpieza de vías y áreas comunes anualmente note que debe estar en unidades de dólar y al precio de la fecha en que se completa el cuestionario, este valor se divide entre la cantidad de personas del cantón.",
+11,"Área protegida o zona de conservación son aquellas que son propiedad del estado o privadas, en las mismas no es posible realizar ningún tipo de actividad humana, excepto aquellas que cuenten con el permiso respectivo del MINAE.",
+12,La zona de protección de las captaciones posee una barrera física para evitar el ingreso de personas y animales. ,
+13,Posee información de la oferta y demanda de agua en su acueducto en los últimos cinco años. ,https://www.aya.go.cr/ASADAS/documentacionAsadas/Manual%20Calculadora%20Balance%20Hidrico.pdf
+14,"Para obtener este dato realice el siguiente cálculo: número de total de metros cúbicos consumidos por la comunidad en un mes, los multiplica por un factor de 1000, divide este número entre el número de abonados. Luego este resultado lo divide entre 30 (es el número de días de un mes) y este resultado lo divide entre el número de habitantes promedio que hay en cada vivienda y obtiene el valor de los litros por persona día
+Ecuación
+Litros/persona/día: (m3 x 1000) / [(número de abonados x número promedio personas vivienda de acuerdo con el distrito) / 30]",
+15,"La ASADA cuenta con plan de atención integral de riesgo, en caso de necesitar ayuda, busque la información en el siguiente link:  GIRA",https://reliefweb.int/report/costa-rica/herramienta-gesti-n-integral-de-riesgo-en-asadas
+16,"Si necesita más información, buscar en el siguiente link: Cambio climático",http://www.pgrweb.go.cr/DocsDescargar/Normas/No%20DE-41091/Version1/Politica_ADAPTACION_24_abril.pdf
+17,La ASADA realiza mediciones de los caudales de las fuentes de agua que posee con regularidad.,
+18,La ASADA realiza el reporte operativo de su acueducto usando lo establecido por el MinSalud,https://aresep.go.cr/images/documentos/AGUA/4.Normativas/ALCA69_01_09_2015.pdf
+19,Se realiza cloración al agua antes de distribuirse a los consumidores,
+20,"Es una infraestructura que purifica el agua, Manual AyA","https://www.aya.go.cr/Noticias/Documents/Norma%20diseño%20y%20construccion%20sistemas%20agua,%20saneamiento%20y%20pluvial.pdf"
+21,Se refiere al sello que brinda AyA,https://www.aya.go.cr/laboratorio/selloCalidad/Paginas/default.aspx
+22,Morosidad,https://www.aya.go.cr/ASADAS/Documents/Manual%20de%20Ponderación.pdf
+23,"Es el agua que desperdicia ya sea por derrames en los tanques o por fisuras, rupturas de cañerías, etc.  Manual de ASADAS",https://www.aya.go.cr/ASADAS/documentacionAsadas/Aspectos%20Básicos%20de%20las%20ASADAS.pdf
+24,"Buscar en el Indice de desarrollo social  para su distrito el valor correspondiente, debe indicarse en porcentaje.  ",
+25,Bandera Azul ecológica,https://sdiconsultorias.com/servicios/bandera-azul-ecologica/?utm_term=bandera%20azul%20ecológica&utm_campaign=Bandera+Azul&utm_source=adwords&utm_medium=ppc&hsa_acc=8743095339&hsa_cam=8723709596&hsa_grp=88778277355&hsa_ad=417813212372&hsa_src=g&hsa_tgt=kwd-835691838652&hsa_kw=bandera%20azul%20ecológica&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwsYb0BRCOARIsAHbLPhEvL0xUFqaD0TKWEHAsIMp4ySajsd9_slxP8cSD8jHFOiQ1-mA21dQaArS7EALw_wcB
+26,"Los programas incluyen charlas, conferencias o capacitaciones en el tema de Educación Ambiental y que se dan a la comunidad.  Se excluyen las capacitaciones a los funcionarios de la ASADA",
+27,En la página del CNE se encuentra información de los riesgos geológicos asociados a cada territorio,https://www.cne.go.cr/reduccion_riesgo/mapas_amenzas/index.aspx
+28,"En la página del CNE se encuentra información de los riesgos geológicos asociados a cada territorio
+",https://www.cne.go.cr/reduccion_riesgo/mapas_amenzas/index.aspx
+29,"En la página del CNE se encuentra información de los riesgos geológicos asociados a cada territorio
+",https://www.cne.go.cr/reduccion_riesgo/mapas_amenzas/index.aspx
+30,"En la página del CNE se encuentra información de los riesgos geológicos asociados a cada territorio
+",https://www.cne.go.cr/reduccion_riesgo/mapas_amenzas/index.aspx
