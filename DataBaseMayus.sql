@@ -160,6 +160,7 @@ CREATE TABLE ASADAINFO(
     ASADA_ID varchar(20) NOT NULL,
     Ubicacion Varchar(200),
     Telefono Varchar(15),
+    CELULAR Varchar(15),
     Poblacion Varchar(6),
     Url Varchar(200),
     cantAbonados Varchar(6),
