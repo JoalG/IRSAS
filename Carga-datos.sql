@@ -91,6 +91,6 @@ LOAD DATA LOCAL INFILE 'Datos/AYUDAXINDICADOR.csv' INTO TABLE AYUDAXINDICADOR
     ROWS (ID_INDICADOR,SUBCOMPONENTE,ID_TEXTO_MEJORA,LIMITE_INFERIOR,LIMITE_SUPERIOR,TEXTO_MEJORA);
 
     
-INSERT INTO AYUDARIESGO (AYUDA) VALUES ("Un riesgo muy alto indica que el índice es mayor que 77%"), ("Un riesgo alto indica que el índice está entre 67% y 77%"), ("Un riesgo alto indica que el índice está entre 67% y 77%"), ("Un riesgo bajo indica que el índice está entre 47% y 57%"), ("Un riesgo muy bajo indica que el índice está entre 0% y 47%");
+INSERT INTO AYUDARIESGO (AYUDA) VALUES ("Un riesgo muy alto indica que el índice es mayor que 77%"), ("Un riesgo alto indica que el índice está entre 67% y 77%"), ("Un riesgo intermedio indica que el índice está entre 57% y 67%"), ("Un riesgo bajo indica que el índice está entre 47% y 57%"), ("Un riesgo muy bajo indica que el índice está entre 0% y 47%");
 
 SOURCE trigger_id.sql;
