@@ -1,0 +1,134 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="32AB19BC-B8B3-6E25-A6A6-A86F4DFE9A61" name="AYUDAXINDICADOR">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:00:28 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<ordsAlias>table_27</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID_INDICADOR" id="3212211D-718E-3E90-3564-F473346957EC">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:03:52 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>0</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<domain>0D967267-329B-CD46-2502-2C177A97F75B</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="9BF0A35E-D1B0-96DA-7196-CD8D0FDAB203" referredColumn="7385A84D-8F29-5935-DFB1-77F6F933F7DD"/>
+</associations>
+</Column>
+<Column name="SUBCOMPONENTE" id="77E88137-8158-2BB7-7822-C6C5989B30C4">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:03:52 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ID_TEXTO_MEJORA" id="7765998A-7595-7B2A-8A7B-13A37FBA061F">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:03:52 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="LIMITE_INFERIOR" id="58AF02D7-AF55-8AA8-4684-7491C61F4E53">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:03:52 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT022</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="LIMITE_SUPERIOR" id="D98C87DF-8494-1C00-CE75-2F9863678171">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:03:52 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT022</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TEXTO_MEJORA" id="F92DF022-9E58-76D9-8650-40C4C4A971C0">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:03:52 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT040</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="SUBCOMPONENTE_ID" id="FB835C18-AA9D-7A55-176A-21AE6C405CFE">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:07:12 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<use>0</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<domain>0D967267-329B-CD46-2502-2C177A97F75B</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="743265C1-4447-E9C6-AA9B-FA7799DBCC77" referredColumn="3A85E5E8-D622-A9AE-6720-35333C1AD6CD"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="08DD7325-20C6-F32C-9A69-462F8F43B6B7" name="AYUDAXINDICADOR_PK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:03:52 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="3212211D-718E-3E90-3564-F473346957EC"/>
+<colUsage columnID="7765998A-7595-7B2A-8A7B-13A37FBA061F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="AE6822B1-0CD5-2D04-3D86-BDC2A03D3499" name="AYUDAXINDICADOR_SUBCOMPONENTE_UN">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:05:52 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="77E88137-8158-2BB7-7822-C6C5989B30C4"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="F6ECFAC6-3695-46D7-A5CA-2BD27E01335E" name="AYUDAXINDICADOR_INDICADOR_FK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:06:31 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="3212211D-718E-3E90-3564-F473346957EC"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C1F7C301-F639-E8CE-6946-FE3936944A54" name="AYUDAXINDICADOR_SUBCOMPONENTE_FK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:07:12 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="FB835C18-AA9D-7A55-176A-21AE6C405CFE"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

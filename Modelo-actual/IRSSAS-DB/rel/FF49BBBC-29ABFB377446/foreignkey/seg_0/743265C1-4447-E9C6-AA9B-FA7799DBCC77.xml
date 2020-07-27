@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="743265C1-4447-E9C6-AA9B-FA7799DBCC77" containerWithKeyObject="32AB19BC-B8B3-6E25-A6A6-A86F4DFE9A61" localFKIndex="C1F7C301-F639-E8CE-6946-FE3936944A54" name="AYUDAXINDICADOR_SUBCOMPONENTE_FK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 23:07:12 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<referredTableLongName>SUBCOMPONENTE</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>029414E9-EB82-BAF6-788A-AC1ADE487139</referredTableID>
+<keyObject>AA3F2F04-6AD8-E9FE-8B1B-C48482D56510</keyObject>
+<referredKeyID>AA3F2F04-6AD8-E9FE-8B1B-C48482D56510</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>ID</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>
