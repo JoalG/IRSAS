@@ -1,0 +1,84 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="B72A2D7B-4704-B57F-F7C0-A0592E5F6566" name="AYUDAFORMULARIO">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:20:08 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<ordsAlias>table_24</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID" id="1944B6A1-F0A2-FB6C-D2FB-A4D8A4B3443E">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:26:28 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="INDICADOR_ID" id="2932262E-157A-2AE0-EA7D-7F8E30631AA9">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:26:28 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>0</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<domain>0D967267-329B-CD46-2502-2C177A97F75B</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="61D2F751-E29A-C015-BD0E-572EA9560699" referredColumn="7385A84D-8F29-5935-DFB1-77F6F933F7DD"/>
+</associations>
+</Column>
+<Column name="AYUDA" id="0C1FA666-EA5B-DE70-FBD2-8D7A8F16B8F5">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:26:28 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>1000</dataTypeSize>
+<ownDataTypeParameters>1000,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="URL" id="5888D41F-7F6D-2059-BC18-4D888919D28A">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:26:28 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>600</dataTypeSize>
+<ownDataTypeParameters>600,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="4A9DFDFC-BFB7-BDDC-ADBD-EECC7690FCE5" name="AYUDAFORMULARIO_PK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:26:28 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1944B6A1-F0A2-FB6C-D2FB-A4D8A4B3443E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="300D2B19-0285-008F-27AA-CB7ACE319ACB" name="AYUDAFORMULARIO_INDICADOR_FK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:29:23 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2932262E-157A-2AE0-EA7D-7F8E30631AA9"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,56 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D0660F51-3B59-5417-DDBC-DCA6975D248C" name="ASOCIACION">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 21:41:39 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<ordsAlias>table_22</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID" id="35AC4B98-473C-ECB5-0CE0-77AF74CD675B">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 21:43:32 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NOMBRE" id="DE7EE115-1D71-3ED3-AFAC-E1681A387E8B">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 21:43:32 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>150</dataTypeSize>
+<ownDataTypeParameters>150,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CANTIDADMIEMBROS" id="57EDE277-9719-D7C1-A396-FB81DBE006B6">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 21:43:32 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="3D1C3F45-909F-47CC-894F-52E9B759B516" name="ASOCIACION_PK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 21:43:32 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="35AC4B98-473C-ECB5-0CE0-77AF74CD675B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

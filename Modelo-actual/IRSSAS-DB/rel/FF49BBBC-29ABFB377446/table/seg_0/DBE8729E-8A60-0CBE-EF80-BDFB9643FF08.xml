@@ -1,0 +1,73 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="DBE8729E-8A60-0CBE-EF80-BDFB9643FF08" name="ASOCIACIONXASADA">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 21:43:50 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<ordsAlias>table_23</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ASOCIACION_ID" id="5FF352D7-8D69-E837-AFAA-42459BBBBD9B">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 21:46:35 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="ABE3FD9D-0AC8-3C3A-B17B-3B07CE0845AE" referredColumn="35AC4B98-473C-ECB5-0CE0-77AF74CD675B"/>
+</associations>
+</Column>
+<Column name="ASADA_ID" id="34A7FD96-9809-AA67-7500-B93CB8E72189">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 21:46:35 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="43F918D6-47BE-CEA8-6306-CEE12D0A757D" referredColumn="11823C2B-F213-8360-150C-3254D6EFD5FF"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="7534F582-9B96-8C92-3C6B-849840494DB8" name="ASOCIACIONXASADA_PK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 21:46:35 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5FF352D7-8D69-E837-AFAA-42459BBBBD9B"/>
+<colUsage columnID="34A7FD96-9809-AA67-7500-B93CB8E72189"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="D861A316-114F-DCB3-9665-70FF1A0D8F65" name="ASOCIACIONXASADA_ASOCIACION_FK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 21:50:54 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5FF352D7-8D69-E837-AFAA-42459BBBBD9B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="E0568EAB-826B-B7CF-D8BD-0877DC6DBB5A" name="ASOCIACIONXASADA_ASADA_FK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 21:51:38 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="34A7FD96-9809-AA67-7500-B93CB8E72189"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

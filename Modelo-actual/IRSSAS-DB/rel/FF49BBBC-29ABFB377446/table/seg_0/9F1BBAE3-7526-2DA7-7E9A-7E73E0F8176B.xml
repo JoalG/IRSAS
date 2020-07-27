@@ -1,0 +1,77 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="9F1BBAE3-7526-2DA7-7E9A-7E73E0F8176B" name="NOTIFICACIONES_ADMIN">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:33:48 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<ordsAlias>table_27</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID" id="3EC54B1D-CB87-DB48-B3E9-399C06458CE2">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:36:20 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NOMBRE_USUARIO" id="7E9F02D8-E10C-223A-AF0E-513441002FA1">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:36:20 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DETALLES" id="DDB8640E-7BD2-0868-AD79-F7FB5634E1E5">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:36:20 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>500</dataTypeSize>
+<ownDataTypeParameters>500,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="FECHAHORA" id="2BDE687F-9D92-7358-2017-5657C4C60881">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:36:20 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="B20895E6-8E70-362F-6EDD-AD0E95406498" name="NOTIFICACIONES_ADMIN_PK">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:36:20 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="3EC54B1D-CB87-DB48-B3E9-399C06458CE2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="73A19A45-9F32-D967-AA1D-816D44B5C3A8" name="NOTIFICACIONES_ADMIN_NOMBRE_USUARIO_UN">
+<createdBy>eduardo</createdBy>
+<createdTime>2020-07-27 22:38:26 UTC</createdTime>
+<ownerDesignName>IRSSAS-DB</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7E9F02D8-E10C-223A-AF0E-513441002FA1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
