@@ -1,81 +1,93 @@
 ID_INDICADOR,SUBCOMPONENTE,ID_TEXTO_MEJORA,LIMITE_INFERIOR,LIMITE_SUPERIOR,TEXTO_MEJORA
-1,1,0,0,0,"Indicar al dueÃ±o de la propiedad que debe instalar un sistema de tratamiento de aguas negras.
-En caso de que el dueÃ±o no responda en un periodo de tres meses, trasladar el caso al Ministerio de Salud y Municipalidad."
-1,1,1,1,1,Mantener un plan de vigilancia para identificar la descarga de residuales en los caÃ±os o canales de conducciÃ³n de agua lluvia ni rÃ­os o quebradas.
-2,1,0,0,0,"Mantener vigilancia permanente de las aguas grises, para el control de descarga de aguas grises en los caÃ±os de recolecciÃ³n y transporte de aguas lluvias. "
-2,1,1,1,1,"Elaborar e implementar un programa de educaciÃ³n ambiental con el fin de sensibilizar a la comunidad en el tema del uso racional del agua, de forma tal que se reduzca la producciÃ³n de aguas grises (ducha, lavamanos, lavado de ropa y platos, limpieza de la vivienda, etc).  
-En el lavado de utensilios de cocina se debe evitar la descarga de alimentos por el fregadero y asÃ­ controlar la presencia de roedores y olores. 
-En coordinaciÃ³n la Municipalidad se deben iniciar acciones para la construcciÃ³n de un alcantarillado sanitario con planta de tratamiento de aguas residuales domÃ©sticas.  
-En zonas rurales incentivar el uso de tratamientos individuales de aguas grises, como por ejemplo biojardineras."
-3,1,0,0,0,"Realizar las gestiones ante la Municipalidad respectiva para la construcciÃ³n de un sistema de alcantarillado pluvial, separÃ¡ndolo del sistema de alcantarillado sanitario, de forma que su funcionamiento sea independiente.  "
-3,1,1,1,1,"Vigilar junto con la Municipalidad, la operaciÃ³n y mantenimiento los sistemas de recolecciÃ³n y descarga de las aguas pluviales ."
-4,1,0,0,0," Iniciar acciones en coordinaciÃ³n con la Municipalidad respectiva, para implementar un sistema de alcantarilllado sanitario con planta de tratamiento de aguas residuales"
-4,1,1,1,1," Vigilar junto con el responsable directo de la operaciÃ³n y mantenimiento de la planta de tratamiento de aguas residuales, que la misma, tenga un adecuado funcionamiento de acuerdo con la normativa nacional."
-5,1,0,0,75,"Si el porcentaje de liquidez es menor al 75 %:
-1)	se debe realizar una revisiÃ³n de tarifas del sistema de acueducto, para aumentar la liquidez de su ASADA, solictar asesoria al AyA.
-2)	Buscar alianza con otras ASADAs cercanas, para relizar actividades en conjunto que disminuyan gastos. Por ejemplo compartir la Secretaria, Fontanero, compras de materiales e insumos. _x000D_
-3)	Realizar gestiones para accesar recursos no reembolsables de cooperaciÃ³n internacional y nacional. Recomendaciones para la condiciÃ³n.
-4)	Buscar asesorÃ­as contables y administrativas para mejorar la liquidez de su ASADA.
-5)	Continuar vigilante de sus sistema administrativo y contable, para que se mantenga su liquidez igual al 100%, mostrando una sostenibilidad para el funcionamiento de su acueducto."
-6,2,0,0,90," Si tiene menos del 90% en recolecciÃ³n de residuos sÃ³lidos no valorizables, enviar recordatorio a la  Municipalidad de su CantÃ³n de acuerdo a la ley GIR con copia al Ministerio de Salud. Con el objetivo de alcanzar el 100 % de cobertura buscar alianzas para fortalecer la educaciÃ³n ambiental.                                                      "
-7,2,0,0,0,"Iniciar gestiones con la Municipalidad, para que se implemente la recolecciÃ³n de residuos sÃ³lidos valorizables en su comunidad.
- Mantener campaÃ±as de educaciÃ³n ambiental a su comunidad en el tema de la gestiÃ³n integral de residuos sÃ³lidos valorizables."
-7,2,1,1,1,"Mantener una comunicaciÃ³n eficaz con la Municpalidad respectiva de forma tal, que el sistema de recolecciÃ³n de residuos sÃ³lidos valorizables se mantenga.  "
-8,2,0,0.8,6,"Si el indice de residuos sÃ³lidos per capita es superior al 0,8 Kg-persona-dia se debe solicitar a la Municipalidad que identifique el ingreso de materiales provenientes de empresas, comercios, agroindustria e instituciones que estÃ¡n mezclandose con los RS Municipales ordinarios. 
-TambiÃ©n que se implemente planes de educaciÃ³n ambiental para  aumentar la recuperaciÃ³n de materiales valorizables que estÃ¡n mezclÃ¡ndose con los residuos sÃ³lidos.  
-La ASADA en coordinanciÃ³n con la Municipalidad, podrÃ­a apoyar en campaÃ±as de educaciÃ³n ambiental en su comunidad."
-9,2,0,0,100,"Si la inversiÃ³n anual en GestiÃ³n Integral de Residuos SÃ³lidos (GIRS) por persona por aÃ±o en el cantÃ³n es inferior a 100 US $  con el objetivo de evitar contaminaciÃ³n del suelo es necesario que la Municipalidad aumente los montos, por lo cual se recomienda a la ASADA enviar a la municipalidad una nota solicitÃ¡ndole revise los montos asignados en la GestiÃ³n Integral de los Residuos. "
-10,2,0,0,3,"Si la inversiÃ³n en la limpieza de vias y Ã¡reas comunes por persona en cada cantÃ³n annual es inferior a  3 US$ con el objetivo de evitar la degradaciÃ³n de vias y zonas comunes necesario que la Municipalidad aumente los montos, por lo cual se recomienda enviarle una nota solicitÃ¡ndole revise los montos asignados en GIR"
-11,3,0,0,0,"Las o la captaciÃ³n del agua de la ASADA no estÃ¡ en zona protegida por el Estado, por lo que es importante que se proteja de forma que se pueda conservar el agua para las futuras generaciones. (reforestaciÃ³n, compra de terrero etc) "
-11,3,1,1,1,La ASADA debe vigilar el mantenimiento rutinario  de la captaciÃ³n por parte Estado. 
-12,3,0,0,0,Es muy importante que se las zonas de protecciÃ³n de las fuentes de agua estÃ© legalmente demarcadas para evitar daÃ±os a las mismas
-12,3,1,1,1,Vigilar que la demarcaciÃ³n de la zona protegida de las fuentes de agua se les dÃ© mantenimiento rutinario .
+1,1,0,0,0,Indicar al dueño de la propiedad que debe instalar un sistema de tratamiento de aguas negras.  Crear un expediente con el caso.                                                                                                  Al cabo de tres meses si no hay respuesta trasladar el caso al Ministerio de Salud y a la Municipalidad.
+1,1,1,1,1,Mantener un plan de vigilancia para identificar la descarga de aguas residuales negras en los caños o canales de conducción de agua lluvia a ríos o quebradas. Coordinar acciones para la protección del recurso con MINAE y comunidad.
+2,1,0,0,0,"Mantener un plan de vigilancia para identificar la descarga de aguas grises en los caños o canales de conducción de agua lluvia a ríos o quebradas. Coordinar acciones para la protección del recurso hídrico con el MINAE y la comunidad.
+Elaborar e implementar un programa de educación ambiental con el fin de sensibilizar a la comunidad en el tema del uso racional del agua, de forma tal que se reduzca la producción de aguas grises (ducha, lavamanos, lavado de ropa y platos, limpieza de la vivienda, etc).    
+Establecer campañas educativas, por ejemplo: En el lavado de utensilios de cocina se debe evitar la descarga de alimentos por el fregadero y así controlar la presencia de roedores y olores."
+2,1,1,1,1,"Elaborar e implementar un programa de educación ambiental con el fin de sensibilizar a la comunidad en el tema del uso racional del agua, de forma tal que se reduzca la producción de aguas grises (ducha, lavamanos, lavado de ropa y platos, limpieza de la vivienda, etc).                                                                                      Establecer campañas educativas, por ejemplo:En el lavado de utensilios de cocina se debe evitar la descarga de alimentos por el fregadero y así controlar la presencia de roedores y olores.                                                                                             En coordinación la Municipalidad se deben iniciar acciones para la construcción de un alcantarillado sanitario con planta de tratamiento de aguas residuales domésticas.                                     En zonas rurales incentivar el uso de tratamientos individuales de aguas grises, como por ejemplo biojardineras. 
+Mantener un plan de vigilancia para identificar la descarga de aguas grises en los caños o canales de conducción de agua lluvia a ríos o quebradas. Coordinar acciones para la protección del recurso con MINAE y comunidad."
+3,1,0,0,0,"Realizar las gestiones ante la Municipalidad respectiva para la construcción de un sistema de alcantarillado pluvial, separándolo del sistema de alcantarillado sanitario, de forma que su funcionamiento sea independiente.  "
+3,1,1,1,1,"Vigilar junto con la Municipalidad y la comunidad, la operación y mantenimiento los sistemas de recolección y descarga de las aguas pluviales ."
+4,1,0,0,0," Iniciar acciones en coordinación con la Municipalidad respectiva, para implementar un sistema de alcantarilllado sanitario con planta de tratamiento de aguas residuales"
+4,1,1,1,1," Vigilar junto con el responsable directo de la operación y mantenimiento de la planta de tratamiento de aguas residuales, que la misma, tenga un adecuado funcionamiento de acuerdo con la normativa nacional."
+5,1,0,0,75,"Se debe realizar una revisión de tarifas del sistema de acueducto, para aumentar la liquidez de su ASADA, solictar asesoría al AyA. 
+Buscar alianza con otras ASADAs cercanas, para realizar actividades en conjunto que disminuyan gastos o fusiones entre ASADAs. Por ejemplo compartir la Secretaria, Fontanero, compras de materiales e insumos. 
+Realizar gestiones para accesar los recursos no reembolsables de cooperación internacional y nacional. 
+Buscar asesorías contables y administrativas para mejorar la liquidez de su ASADA. 
+Continuar vigilante de sus sistemas administrativos y contables, de forma que vaya aumentando su liquidez."
+5,1,1,75,0,Mantener el sistema financiero y hacer previsiones para imprevistos por ejemplo epidemias o desastres naturales
+6,2,0,0,90,"Si tiene menos del 90% en recolección de residuos sólidos no valorizables, enviar una nota a la  Municipalidad de su Cantón con copia al Ministerio de Salud, para que de acuerdo a la ley GIR ,  esta aumente la cantidad de servicios de recolección de Residuos Sólidos no valorizables.                                                                                                                                                                                                 Con el objetivo de alcanzar el 100 % de cobertura buscar alianzas para fortalecer la educación ambiental.                                                       Colaborar con la Municipalidad en la identificación de basureros clandestinos."
+6,2,1,90,0,"Consolidar el sistema de recolección mediante el apoyo en conjunto con la Municipalidad, para brindar  campañas de educación ambiental dirigidas a la comunidad .  Estar atentos a la aparición de botaderos clandestinos"
+7,2,0,0,0,"Iniciar gestiones con la Municipalidad, para que se implemente la recolección de residuos sólidos valorizables en su comunidad.                                                                                                         Mantener campañas de educación ambiental dirigidas a su comunidad en el tema de la gestión integral de residuos sólidos valorizables."
+7,2,1,1,1,"Mantener una comunicación eficaz con la Municpalidad respectiva de forma tal, que el sistema de recolección de residuos sólidos valorizables se mantenga y fortalezca.   Continuar brindando educación ambiental."
+8,2,1,6,0.8,"Un indice de generación de Residuos Sólidos inferior a 0,8 kg/persona/día, esta en el promedio aceptado, es recomendable que el mismo sea incluso menor.  El el país las Municipalidades en zonas rurales tienen a manejar valores de producción per capita incluso mayores a 0,8, debido a que mezclan sus residuos con materiales orgánicos provenientes de pequeñas agroindustrias.   Se debe estar vigilante para que este valor no aumente en tiempo, puesto que el aumento en cantidad de residuos afecta directamente las fuentes superficiales y por tanto la sostenibilidad del recurso hídrico."
+8,2,0,0.8,6,"Si el índice es superior al 0,8 Kg-persona-día se debe solicitar a la Municipalidad que identifique el ingreso de materiales provenientes de empresas, comercios, agroindustria e instituciones que están mezclándose con los residuos sólidos Municipales ordinarios.                                           También que se implemente planes de educación ambiental para  aumentar la recuperación de materiales valorizables que están mezclándose con los residuos sólidos.                                                            La ASADA en coordinanción con la Municipalidad, podría apoyar en campañas de educación ambiental en su comunidad."
+9,2,0,0,100,"Si la inversión es inferior a 100 US $ por año, esto implica que no se logrará la suficiente inversión para la gestión de los residuos sólidos, por lo cual se prevee la contaminación de suelos, aguas e incluso aire. 
+ La ASADA puede contribuir, enviándole una nota a la  Municipalidad para que está aumente los montos de inversión en la GIRS.  "
+9,2,1,100,0,"Fortalecer la educación ambiental para que los vecinos mantengan  una actitud vigilante de la aparición de  botaderos clandestinos. 
+Promover ante su comunidad acciones de educación ambiental con el objetivo de fortalecer la recolección separada."
+10,2,0,0,3,"Si la inversión es inferior a 3 US$ $/persona/año con el objetivo de evitar la contaminación por residuos sólidos en las  vías y zonas comunes , es necesario que la Municipalidad aumente dicho monto, por lo cual se recomienda enviarle a la Municipalidad una nota solicitándole para que revisen los montos asignados en GIR.
+Darle seguimiento a la nota al mes de haberla enviado.
+Educar ambientalmente a la población con el fin de que se convierta en agente de control de la contaminación por residuos sólidos en áreas comunes y vías."
+10,2,1,3,0,"Mantener una buena comunicación con la Municipalidad con respecto del tema de la inversión en GIRS. 
+Educar ambientalmente a la población con el fin de que se convierta en agente de control de la contaminación por residuos sólidos en áreas comunes y vías ."
+11,3,0,0,0,"Al no estar la(s) captación(es) del agua de la ASADA en  zonas protegidas por el Estado, es urgente preservar la(s) fuente(s), de forma que se pueda garantizar la prestación del agua para las futuras generaciones. Se recomienda ejecutar acciones de reforestación, compra de terrero, colocar mallas perimetrales, cámaras de vigilancia, etc.  Es recomendable fortalecer la educación ambiental en la comunidad para apoyarse en esta labor.  Coordinar con el MINAE la protección de las fuentes."
+11,3,1,1,1,La ASADA debe vigilar el mantenimiento rutinario  de la protección de las captaciones por parte Estado. Incluirlo como una actividad de rutina por lo menos una vez al año.
+12,3,0,0,0,"Es muy importante que las zonas de protección de las fuentes de agua esté legalmente demarcadas para evitar daños a las mismas, invasión del terrero, contaminación."
+12,3,1,1,1,Vigilar que la demarcación de la zona protegida de las fuentes de agua se les dé mantenimiento rutinario .
 13,3,0,0,0,Vigilar que la demarcaciÃ³n de la zona protegida de las fuentes de agua se les dÃ© mantenimiento rutinario .
-13,3,1,1,1,"Dar seguimiento al estudio del balance hidrico. 
-Capacitar a la comunidad en el un uso sostenible del agua. 
-Coordinar con ONGs, Ministerio de EducaciÃ³n PÃºblica, Universidades y empresa privada para capacitar los grupos meta."
-14,3,0,250,1000,"Realizar campaÃ±as de educaciÃ³n ambiental dirigidas a la comunidad con el objetivo de reducir del consumo de agua por persona. 
-En agroindustrias o pequeÃ±as industrias con procesos industriales hÃºmedos, aplicar metodologÃ­as de producciÃ³n mÃ¡s limpia.
-Contar con un registro mensual promedio para garantizar el consumo sostenible del agua."
-15,3,0,0,0,"Debe elaborar un plan de atenciÃ³n integral de riesgos, puede solicitar asesorÃ­a a AyA, Universidades pÃºblicas , ONGs.
-Ejecutar el plan de atenciÃ³n de riesgo y darle seguimiento.
-Socializar el plan en sus redes sociales y en la comunidad."
-15,3,1,1,1,Actualizar el Plan de atenciÃ³n integral de riesgos al menos cada dos aÃ±os
+13,3,1,1,1,"La ASADA debe realizar su respectivo balance hídrico del acueducto, para conocer la oferta del agua que dispone, con el objetivo de planificar la atención de  su comunidad en un horizonte como mínimo de 20 años.  "
+14,3,0,250,1000,"Realizar campañas de educación ambiental dirigidas a la comunidad con el objetivo de reducir del consumo de agua por persona, 
+Fomentar entre la agroindustrias o pequeñas industrias con procesos  húmedos, aplicar metodologías de producción más limpia.
+Contar con un registro mensual de consumo promedio para garantizar el uso eficiente y sostenible del agua ."
+14,3,1,0,250,"Realizar campañas de educación ambiental dirigidas a la comunidad con el objetivo de continuar la redución en el consumo de agua por persona por día. 
+Fomentar en agroindustrias o pequeñas industrias con procesos  húmedos, aplicar metodologías de producción más limpia.
+Contar con un registro mensual promedio para controlar eficientemente el consumo sostenible del agua ."
+15,3,0,0,0,"Debe elaborar un plan de atención integral de riesgos, puede solicitar asesoría a AyA, Universidades públicas , ONGs.
+Ejecutar el plan de atención de riesgo y darle seguimiento
+Socializar el plan en sus redes sociales con la comunidad."
+15,3,1,1,1,Actualizar el Plan de atención integral de riesgos al menos cada dos años
 16,3,0,0,0," Se debe elaborar un programa para la adaptaciÃ³n al cambio climÃ¡tico, puede solicitar asesorÃ­a a AyA, Universidades pÃºblicas, ONGs"
 16,3,1,1,1,Actualizar el programas para adaptaciÃ³n al cambio climÃ¡tico cada aÃ±o.
-17,3,0,0,0,"Implementar la cultura de realizar aforos en las fuentes del acueducto con una frecuencia mensual.
-Cotejar los registros de agua consumida por los usuarios contra los registros de los aforos realizados en las fuentes, establecer las posibles pÃ©rdidas. "
-17,3,1,1,1,"Los datos de los aforos de las fuentes se deben utilizar la contruccÃ­Ã³n indicadores o controles de eficiencia, balances hÃ­dricos y realizar acciones para que poblaciÃ³n realice un uos racional y eficiente del recurso hÃ­drico."
-18,4,0,0,0,"La ASADA segÃºn reglamentaciÃ³n del MINSALUD, debe realizar el plan operativo del acueducto, para lo cual debe hacer uso de la herremienta SERSA, la cual posee la metodologia para la evaluaciÃ³n de los riesgos de los componentes del acueducto. Reglamento 38924-S 2015. 
-En caso de no contar con personal capacitado para realizar el plan operativo del acueducto, solicitar asesorÃ­a al Ministerio de Salud Area Rectora Local"
-18,4,1,1,1,"Realizar la presentaciÃ³n del plan Operativo de su acueducto, segÃºn las fechas establecidas por el  Reglamento 38924-S 2015."
-19,4,0,0,0,"DiseÃ±ar un plan para construir un sistema de desinfecciÃ³n con urgencia
-Buscar los fondos y capacitaciÃ³n para construir el sistema
-Mantener y controlar el sistema de desinfecciÃ³n"
-19,4,1,1,1,Vigilar la operaciÃ³n eficiente del sistema de desinfecciÃ³n.
-20,4,0,0,0,"Si la calidad y cantidad del agua no son aceptables es necesario: DiseÃ±ar un plan para construir una planta potabilizadora , buscar los fondos y capacitaciÃ³n para construir el sistema, mantener y controlar la planta potabilizadora, buscar alianzas con AyA u otras ASADAs para administrar sistemas comunes."
-20,4,1,1,1,Vigilar la operaciÃ³n y mantenimiento de la Planta Potabilizadora
-21,4,0,0,0,Iniciar el proceso para obtener el sello de calidad sanitaria.
-21,4,1,1,1,Mantener las condiciones para continuar con el sello de calidad sanitaria.
-22,5,0,0,10,"Morosidad entre  0% y 10%, la ASADA debe realizar acciones para  disminuir la morosidad de pago de los usuarios cada aÃ±o, para alcanzar el nivel de cero morosidad. "
-22,5,1,11,100,"Morosidad mayor de 10%, en este caso la ASADA debe buscar asesoria con el AyA, con el fin de tener acciones para disminuir la morosidad de pago de los usuarios."
-23,5,0,0,40,"Para un porcentaje de agua no contabilizada menor al 40%, la ASADA debe realizar revisiÃ³n de los componentes del acueducto para establecer en cuales se presentan pÃ©rdidas de agua, con el fin de que se realicen mejoras para disminuir el porcentaje de agua no contabilizada.  "
-23,5,1,41,100,"Para un porcentaje de agua no contabilizada mayor al 40%, la ASADA se debe realizar del estudio del balance hidrico y localizaciÃ³n de las perdidas mediante equipos especilaizados en componentes del acueducto en especial, en las redes de conducciÃ³n y de distribucciÃ³n."
-24,6,0,0,100,"SegÃºn Mideplan si su Ã­ndice estÃ¡ entre 100-72,5 su cantÃ³n se encuentra ubicado en el mayor desarrollo relativo. Si el valor esta entre 72,5-58 se encuentra en nivel medio. Para valores entre 57,9-43,9 se encuentra en nivel bajo. Valores inferiores a 43,8-0 estarÃ¡ ubicado en un nivel muy bajo. MIDEPLAN https://documentos.mideplan.go.cr/share/s/7gQJ5YXdSWKep9pZLfyzJA _x000D_"
-25,7,0,0,0,"La ASADA debe iniciar acciones para cumplir con los requisitos solicitados en el Programa Bandera Azul EcolÃ³gica.
-La ASADA debe incentivar a la comunidad para que se inscriba y certifique en el Programa de Bandera Azul EcolÃ³gica."
-25,7,1,1,1,Velar por el mantenimiento de la bandera azul ecolÃ³gica.
-26,7,0,0,0,"Incorporar en el plan de trabajo acciones para desarrollar programas de educaciÃ³n ambiental comunal, coordinar estas acciones con la Municipalidad, ONGs, Universidades, Ministerio de Salud y Ministerio de EducaciÃ³n y MINAE. "
-26,7,1,1,1,Continuar con los programas de educaciÃ³n ambiental.
-27,8,1,1,1,"Coordinar con la ComisiÃ³n Nacional de Emergencia para establecer planes de mitigaciÃ³n debido a los riesgos de inundaciÃ³n. Coordinar con la Municipalidad acciones conjuntas.
-Mantener un fondo para reparaciones del acueducto por afectaciones de inudaciones. 
-Planificar el cambio de las infraestructuras hasta sitios con menos riesgo cuando sea posible. "
-28,8,1,1,1,"Coordinar con la ComisiÃ³n Nacional de Emergencia para establecer planes de mitigaciÃ³n debido a los riesgos de deslizamiento. Coordinar con la Municipalidad acciones conjuntas. 
-Mantener un fondo para reparaciones del acueducto por afectaciones de deslizamiento.  
-Planificar el cambio de las infraestructuras hasta sitios con menos riesgo cuando sea posible. "
-29,8,1,1,1,"Coordinar con la ComisiÃ³n Nacional de Emergencia para establecer planes de mitigaciÃ³n debido a los riesgos volcÃ¡nicos. Coordinar con la Municipalidad acciones conjuntas. 
-Mantener un fondo para reparaciones del acueducto por afectaciones volcÃ¡nicas.  
-Planificar el cambio de las infraestructuras hasta sitios con menos riesgo cuando sea posible. "
-30,8,1,1,1,"Coordinar con la ComisiÃ³n Nacional de Emergencia para establecer planes de mitigaciÃ³n debido a los riesgos por zona sÃ­smica. Coordinar con la Municipalidad acciones conjuntas. 
-Mantener un fondo para reparaciones del acueducto por afectaciones de sismo.  
-Planificar el cambio de las infraestructuras hasta sitios con menos riesgo cuando sea posible. "
+17,3,0,0,0,"Capacitar al personal encargado sobre la forma correcta de realizar aforos en las fuentes.
+Implementar la cultura de realizar aforos en las fuentes del acueducto con una frecuencia mensual. 
+Llevar una bitácora con el registro de aforos de las fuentes
+ Cotejar los registros de agua consumida por los usuarios contra los registros de los aforos realizados en las fuentes, establecer la cantidad de pérdidas de agua de acuerdo con esta información. "
+17,3,1,1,1,"Los datos de los aforos de las fuentes se deben  utilizar para la contruccíón indicadores o controles de eficiencia, balances hídricos y realizar acciones para que población realice un uso racional y eficiente del recurso hídrico.
+Cuantificar las pérdidas de agua contrastando la información recolectada además de llevar un control mensual ."
+18,4,0,0,0,"La ASADA según reglamentación del MINSALUD, debe realizar el plan operativo del acueducto, para lo cual debe hacer uso de la herremienta SERSA, la cual posee la metodologia para la evaluación de los riesgos de los componentes del acueducto. Reglamento 38924-S 2015.                                                                                                  En caso de no contar con personal capacitado para realizar el plan operativo del acueducto, solicitar asesoría al Ministerio de Salud Area Rectora Local."
+18,4,1,1,1,"Mantener la presentación del plan Operativo de su acueducto, según las fechas establecidas por el  Reglamento 38924-S 2015.                                                                 "
+19,4,0,0,0,"Diseñar un plan para construir un sistema de desinfección con urgencia
+Buscar los fondos y capacitaciÃ³n para construir el sistemaDiseñar un plan para construir un sistema de desinfección con urgencia
+Buscar los fondos y capacitación para construir el sistema
+Mantener y controlar el sistema de desinfección"
+19,4,1,1,1,"Evaluar el sistema de desinfección actual para conocer su eficiencia.
+Vigirlar  la operación eficiente del sistema de desinfección 
+Darle mantenimiento al sistema instalado"
+20,4,0,0,0,"Si la calidad y cantidad del agua no cumplen con la normativa vigente, es necesario :
+Diseñar un plan para construir una planta potabilizadora 
+Buscar los fondos y capacitación para construir el sistema
+Mantener y controlar la planta potabilizadora
+Buscar alianzas con AyA u otras ASADAs para administrar sistemas comunes"
+20,4,1,1,1,Mantener un sistema de control de operación y mantenimiento para garantizar el servicio de agua potable a la comunidad .
+21,4,0,0,0,"Iniciar el proceso para obtener el sello de calidad sanitaria. 
+En caso de necesitar ayuda, solicitarla a AyA, Universidades, ONG."
+21,4,1,1,1,Mantener las condiciones para continuar con el sello de calidad sanitaria
+22,5,0,0,10,"Morosidad entre  0% y 10%, la ASADA debe realizar acciones para  disminuir la morosidad de pago de los usuarios cada año, para alcanzar el nivel de cero morosidad.          "
+22,5,1,11,100,"Morosidad mayor de 10%, en este caso la ASADA debe buscar asesoria con el AyA, con el fin de tener acciones para disminuir la morosidad de pago de los usuarios"
+23,5,0,0,40,"Para un porcentaje de agua no contabilizada menor al 40%,
+ la ASADA debe realizar revisión de los componentes del acueducto para establecer en cuales se presentan pérdidas de agua, con el fin  que se realicen mejoras para disminuir el porcentaje de agua no contabilizada.        "
+23,5,1,41,100," Para un porcentaje de agua no contabilizada mayor al 40%, la ASADA se debe realizar el estudio del balance hidrico y localización de las perdidas mediante equipos especilaizados en componentes del acueducto en especial, en las redes de conducción y de distribucción."
+24,6,0,0,100,"La importancia de conocer el valor del IDS radica en las facilidades que tienen las poblaciones para el pago de servicios, también se ve reflejado el acceso a internet, telefonía y condiciones socioeconómicas de los hogares que facilitan la inversión en tecnologías de bajo de consumo de agua, hacer uso de agua lluvia como abastecimiento del hogar.
+Según Mideplan si su índice está entre 100-72,5 su cantón se encuentra ubicado en el mayor desarrollo relativo. 
+Si el valor está entre 72,5-58 se encuentra en nivel medio. 
+Para valores entre 57,9-43,9 se encuentra en nivel bajo. 
+Valores inferiores a 43,8-0 estará ubicado en un nivel muy bajo MIDEPLANhttps://documentos.mideplan.go.cr/share/s/7gQJ5YXdSWKep9pZLfyzJA"
+25,7,0,0,0,La ASADA debe iniciar acciones para obtener el galardón en el Programa Bandera Azul Ecológica.                                                            La ASADA puede incentivar a a los diferentes actores sociales para que se inscriban y se certifiquen en el Programa de Bandera Azul Ecológica.
+25,7,1,1,1,"Velar por el mantenimiento de la bandera azul ecológica.  Fomentar la colaboración con los diferentes actores sociales para garantizar la continuidad de este galardón, con el objetivo de fortalecer la educación ambiental"
+26,7,0,0,0,"La ASADA debe incorporar en el plan de trabajo acciones para desarrollar programas de educación ambiental comunal, coordinar estas acciones con la Municipalidad, ONGs, Universidades, Ministerio de Salud y Ministerio de Educación y MINAE. "
+26,7,1,1,1,Continuar con los programas de educación ambiental.
+27,8,1,1,1,Coordinar con la Comisión Nacional de Emergencia para establecer planes de mitigación debido a los riesgos de inundación. Coordinar con la Municipalidad acciones conjuntas.                                                                                           Mantener un fondo para reparaciones del acueducto por afectaciones de inudaciones.                                                                        Planificar el cambio de las infraestructuras hasta sitios con menos riesgo cuando sea posible. 
+28,8,1,1,1,Coordinar con la Comisión Nacional de Emergencia para establecer planes de mitigación debido a los riesgos de inundación. Coordinar con la Municipalidad acciones conjuntas.                                                                                           Mantener un fondo para reparaciones del acueducto por afectaciones de inudaciones.                                                                        Planificar el cambio de las infraestructuras hasta sitios con menos riesgo cuando sea posible. 
+29,8,1,1,1,Coordinar con la Comisión Nacional de Emergencia para establecer planes de mitigación debido a los riesgos de inundación. Coordinar con la Municipalidad acciones conjuntas.                                                                                           Mantener un fondo para reparaciones del acueducto por afectaciones de inudaciones.                                                                        Planificar el cambio de las infraestructuras hasta sitios con menos riesgo cuando sea posible. 
+30,8,1,1,1,Coordinar con la Comisión Nacional de Emergencia para establecer planes de mitigación debido a los riesgos de inundación. Coordinar con la Municipalidad acciones conjuntas.                                                                                           Mantener un fondo para reparaciones del acueducto por afectaciones de inudaciones.                                                                        Planificar el cambio de las infraestructuras hasta sitios con menos riesgo cuando sea posible. 
