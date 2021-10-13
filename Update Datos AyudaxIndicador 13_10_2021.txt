@@ -1,0 +1,19 @@
+UPDATE AYUDAXINDICADOR
+SET TEXTO_MEJORA = "Actividades preventivas: evitar el uso de zonas tradicionales inundables. En caso de construir en zona vulnerable colocar la infraestructura a una altura conveniente para que esté sobre el desborde de agua. Reforestar las riberas de los ríos así como las nacientes. Eliminar obstáculos dentro del rio. Elaborar planes de contingencia. Establecer planes de limpieza de cauces y alcantarillados. Establecer mecanismos de alerta y distribuirlos entre la comunidad. Mantener reserva de agua potable durante las épocas de lluvias. Coordinar con la Comisión Nacional de Emergencia para establecer planes de mitigación debido a los riesgos de inundación. Coordinar con la Municipalidad acciones conjuntas. Mantener un fondo para reparaciones del acueducto por afectaciones de inundaciones. Planificar el cambio de las infraestructuras hasta sitios con menos riesgo cuando sea posible." 
+WHERE ID_INDICADOR = 27;
+
+UPDATE AYUDAXINDICADOR
+SET TEXTO_MEJORA = "Evitar la construcción de infraestructuras en zonas vulnerables a deslizamientos.  Identificar las vías de evacuación." 
+WHERE ID_INDICADOR = 28;
+
+UPDATE AYUDAXINDICADOR
+SET TEXTO_MEJORA = "Diseñar un plan de evacuación para el acueducto. Identificar las rutas de evacuación.  Instruir al personal de la ASADA en las rutas de evacuación y procedimientos." 
+WHERE ID_INDICADOR = 29;
+
+UPDATE AYUDAXINDICADOR
+SET TEXTO_MEJORA = "Evaluar la calidad de las edificaciones, considerando las resistencias ante un sismo de magnitud importante, solicitar a la CNE los mapas de zonificación sismica.Buscar el financiamiento para movilizar las tuberias hasta sitios más seguros." 
+WHERE ID_INDICADOR = 30;
+
+UPDATE AYUDAXINDICADOR
+SET TEXTO_MEJORA = "Solicitar a los dueños de las propiedades que deben instalar un tratamiento de aguas negras. Crear un expediente con cada caso, al cabo de tres meses si no hay respuestas, trasladar el caso al Ministerio de Salud y la Municipalidad." 
+WHERE ID_INDICADOR = 1 AND SUBCOMPONENTE = 1 AND ID_TEXTO_MEJORA = 0;
