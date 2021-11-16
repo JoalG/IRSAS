@@ -20,26 +20,26 @@ WHERE ID_INDICADOR = 1 AND SUBCOMPONENTE = 1 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Mantener un plan de vigilancia para identificar la descarga de aguas residuales negras en los caños o canales de conducción de agua lluvia a ríos o quebradas. Coordinar acciones para la protección del recurso con MINAE y comunidad." 
-WHERE ID_INDICADOR = 1 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 1 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Mantener un plan de vigilancia para localizar la descarga de aguas grises en los caños o canales de conducción de agua lluvia a ríos o quebradas.  Coordinar acciones para la protección del recurso hídrico con el MINAE y con la comunidad.
 Elaborar e implementar un programa de educación ambiental con el fin de sensibilizar a la comunidad en el tema del uso racional del agua, de forma tal que se reduzca la producción de aguas grises (ducha, lavamanos, lavado de ropa y platos, limpieza de la vivienda).    
 Establecer campañas educativas, por ejemplo: en el lavado de utensilios de cocina se debe evitar la descarga de alimentos por el fregadero y así controlar la presencia de roedores y olores.  " 
-WHERE ID_INDICADOR = 2 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 2 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Elaborar e implementar un programa de educación ambiental con el fin de sensibilizar a la comunidad en el tema del uso racional del agua, de forma tal que se reduzca la producción de aguas grises (ducha, lavamanos, lavado de ropa y platos, limpieza de la vivienda, etc.).                                                                                      Establecer campañas educativas, por ejemplo: En el lavado de utensilios de cocina se debe evitar la descarga de alimentos por el fregadero y así controlar la presencia de roedores y olores.                                                                                             En coordinación la Municipalidad se deben iniciar acciones para la construcción de un alcantarillado sanitario con planta de tratamiento de aguas residuales domésticas.                                     En zonas rurales incentivar el uso de tratamientos individuales de aguas grises, como por ejemplo biojardineras. 
 Mantener un plan de vigilancia para identificar la descarga de aguas grises en los caños o canales de conducción de agua lluvia a ríos o quebradas. Coordinar acciones para la protección del recurso con MINAE y comunidad.   Propiciar la construcción de plantas de tratamiento para aguas grises." 
-WHERE ID_INDICADOR = 2 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 2 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Realizar las gestiones ante la Municipalidad respectiva para la construcción de un sistema de alcantarillado pluvial, separándolo del sistema de alcantarillado sanitario, de forma que su funcionamiento sea independiente.  " 
-WHERE ID_INDICADOR = 3 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 3 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Iniciar acciones en coordinación con la Municipalidad respectiva, para implementar un sistema de alcantarillado sanitario con planta de tratamiento de aguas residuales" 
-WHERE ID_INDICADOR = 4 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 4 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Se debe realizar una revisión de tarifas del sistema de acueducto, para aumentar la liquidez de su ASADA, solicitar asesoría al AyA. 
@@ -48,77 +48,77 @@ Realizar gestiones para accesar los recursos no reembolsables de cooperación in
 Buscar asesorías contables y administrativas para mejorar la liquidez de su ASADA. 
 Continuar vigilante de sus sistemas administrativos y contables, de forma que vaya aumentando su liquidez
                                                                                                                      " 
-WHERE ID_INDICADOR = 5 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 5 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Enviar una nota a la  Municipalidad de su Cantón con copia al Ministerio de Salud, para que de acuerdo a la ley GIR ,  ésta aumente la cobertura de recolección de Residuos Sólidos no valorizables.                                                                                                                                                                                                 Buscar alianzas con diferentes organizaciones para fortalecer la cultura ambiental.  Colaborar con la Municipalidad en la identificación de basureros clandestinos." 
-WHERE ID_INDICADOR = 6 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 6 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Iniciar gestiones con la Municipalidad, para que se implemente la recolección de residuos sólidos valorizables en su comunidad.                                                                                                         Mantener campañas de educación ambiental dirigidas a su comunidad en el tema de la gestión integral de residuos sólidos valorizables." 
-WHERE ID_INDICADOR = 7 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 7 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "En Costa Rica las Municipalidades localizadas en zonas rurales tienen a manejar valores de generación de residuos sólidos per cápita incluso mayores a 0,8, debido a que mezclan sus residuos con materiales orgánicos provenientes de pequeñas agroindustrias.   Se debe estar vigilante para que este valor no aumente en tiempo, puesto que el aumento en cantidad de residuos afecta directamente las fuentes superficiales y por tanto la sostenibilidad del recurso hídrico. Por tanto resulta recomendable, diseñar en conjunto con otros actores, planes de educación ambiental para  aumentar la recuperación de materiales valorizables que están mezclándose con los residuos sólidos y propiciar una cultura de menor generación de residuos sólidos." 
-WHERE ID_INDICADOR = 8 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 8 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Si la inversión es inferior a 100 US $ por año, esto implica que no se dispondrán de suficientes recursos para la gestión de los residuos sólidos, por lo cual se prevé la contaminación de suelos, aguas e incluso aire. 
  La ASADA puede contribuir, enviándole una nota a la  Municipalidad para que está aumente los montos de inversión en la Gestión Integral de Residuos Sólidos" 
-WHERE ID_INDICADOR = 9 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 9 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Si la inversión es inferior a 3 US$ $/persona/año con el objetivo de evitar la contaminación por residuos sólidos en las  vías y zonas comunes , es necesario que la Municipalidad aumente dicho monto, por lo cual se recomienda enviarle a la Municipalidad una nota solicitándole para que revisen los montos asignados en GIR.La contaminación por residuos sólidos sin recolectar en vías y áreas comunes impacta directamente a las fuentes de agua.
 Darle seguimiento a la nota al mes de haberla enviado.
 Educar ambientalmente a la población con el fin de que se convierta en agente de control de la contaminación por residuos sólidos en áreas comunes y vías." 
-WHERE ID_INDICADOR = 10 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 10 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Al no estar la(s) captación(es) del agua de la ASADA en  zonas protegidas por el Estado, es urgente preservar la(s) fuente(s), de forma que se pueda garantizar la prestación del agua para las futuras generaciones. Se recomienda ejecutar acciones de reforestación, compra de terrero, colocar mallas perimetrales, cámaras de vigilancia, etc.  Es recomendable fortalecer la educación ambiental en la comunidad para apoyarse en esta labor.  Coordinar con el MINAE la protección de las fuentes" 
-WHERE ID_INDICADOR = 11 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 11 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Es muy importante que las zonas de protección de las fuentes de agua esté legalmente demarcadas para evitar daños a las mismas, invasión del terrero, contaminación." 
-WHERE ID_INDICADOR = 12 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 12 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "La ASADA debe realizar su respectivo balance hídrico del acueducto, para conocer la oferta del agua que dispone, con el objetivo de planificar la atención de  su comunidad en un horizonte como mínimo de 20 años.  " 
-WHERE ID_INDICADOR = 13 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 13 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Realizar campañas de educación ambiental dirigidas a la comunidad con el objetivo de reducir del consumo de agua por persona, 
 Fomentar entre la agroindustrias o pequeñas industrias con procesos  húmedos, aplicar metodologías de producción más limpia.
 Contar con un registro mensual de consumo promedio para garantizar el uso eficiente y sostenible del agua ." 
-WHERE ID_INDICADOR = 14 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 14 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Debe elaborar un plan de atención integral de riesgos, puede solicitar asesoría a AyA, Universidades públicas , ONGs.
 Ejecutar el plan de atención de riesgo y darle seguimiento
 Socializar el plan en sus redes sociales con la comunidad.
 " 
-WHERE ID_INDICADOR = 15 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 15 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Se debe elaborar un programa para la adaptación al cambio climático, puede solicitar asesoría a AyA, Universidades públicas, ONGs." 
-WHERE ID_INDICADOR = 16 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 16 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Capacitar al personal encargado sobre la forma correcta de realizar aforos en las fuentes.
 Implementar la cultura de realizar aforos en las fuentes del acueducto con una frecuencia mensual. 
 Llevar una bitácora con el registro de aforos de las fuentes
 Los datos de los aforos de las fuentes se deben  utilizar para la construcción indicadores o controles de eficiencia, balances hídricos y realizar acciones para que población realice un uso racional y eficiente del recurso hídrico. Cotejar los registros de agua consumida por todos usuarios contra los registros de los aforos realizados en las fuentes, para establecer la cantidad de pérdidas de agua de acuerdo con esta información. " 
-WHERE ID_INDICADOR = 17 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 17 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "La ASADA según reglamentación del MINSALUD, debe realizar el plan operativo del acueducto, para lo cual debe hacer uso de la herramienta SERSA, la cual posee la metodología para la evaluación de los riesgos de los componentes del acueducto. Reglamento 38924-S 2015.                                                                                                  " 
-WHERE ID_INDICADOR = 18 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 18 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Este es un punto crítico y debe ser atendido urgentemente, para tal fin se debe construir un sistema de desinfección.
 Buscar los fondos y la capacitación para construir el sistema.
 Mantener y controlar el sistema de desinfección.
 " 
-WHERE ID_INDICADOR = 19 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 19 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Revisar con urgencia la calidad del agua brindada, si la calidad y cantidad del agua no cumplen con la normativa vigente, es necesario :
@@ -127,20 +127,20 @@ Buscar los fondos y capacitación para construir el sistema.  Construir la plant
 Mantener y controlar la planta potabilizadora.
 Buscar alianzas con AyA u otras ASADAs para administrar sistemas comunes.  Construir la planta potabilizadora
 " 
-WHERE ID_INDICADOR = 20 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 20 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Iniciar el proceso para obtener el sello de calidad sanitaria. 
 En caso de necesitar ayuda, solicitarla a AyA, Universidades, ONG." 
-WHERE ID_INDICADOR = 21 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 21 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Morosidad mayor de 10%, en este caso la ASADA debe buscar asesoría con el AyA, con el fin de tener acciones para disminuir la morosidad de pago de los usuarios" 
-WHERE ID_INDICADOR = 22 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 22 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Para un porcentaje de agua no contabilizada mayor al 40%, la ASADA  debe realizar el estudio del balance hídrico y localización de las pérdidas de agua en los tanques, además de las redes de conducción y de distribución." 
-WHERE ID_INDICADOR = 23 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 23 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "A continuación se ofrece información general sobre la importancia de conocer el valor del IDS, que  radica en las facilidades que tienen las poblaciones para el pago de servicios, también se ve reflejado el acceso a internet, telefonía y condiciones socioeconómicas de los hogares que facilitan la inversión en tecnologías de bajo de consumo de agua, hacer uso de agua lluvia como abastecimiento del hogar.
@@ -149,114 +149,114 @@ Si el valor está entre 72,5-58 se encuentra en nivel medio.
 Para valores entre 57,9-43,9 se encuentra en nivel bajo. 
 Valores inferiores a 43,8-0 estará ubicado en un nivel muy bajo MIDEPLANhttps://documentos.mideplan.go.cr/share/s/7gQJ5YXdSWKep9pZLfyzJA
 " 
-WHERE ID_INDICADOR = 24 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 24 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "La ASADA debe iniciar acciones para obtener el galardón en el Programa Bandera Azul Ecológica.                                                            La ASADA puede incentivar a  los diferentes actores sociales para que se inscriban y se certifiquen en el Programa de Bandera Azul Ecológica." 
-WHERE ID_INDICADOR = 25 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 25 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "La ASADA debe incorporar en el plan de trabajo acciones para desarrollar programas de educación ambiental comunal, coordinar estas acciones con la Municipalidad, ONGs, Universidades, Ministerio de Salud y Ministerio de Educación y MINAE. " 
-WHERE ID_INDICADOR = 26 AND AND ID_TEXTO_MEJORA = 0;
+WHERE ID_INDICADOR = 26 AND ID_TEXTO_MEJORA = 0;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Propiciar la construcción de plantas de tratamiento para aguas grises." 
-WHERE ID_INDICADOR = 3 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 3 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Vigilar junto con el responsable directo de la operación y mantenimiento de la planta de tratamiento de aguas residuales, que la misma, tenga un adecuado funcionamiento de acuerdo con la normativa nacional." 
-WHERE ID_INDICADOR = 4 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 4 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Mantener el sistema financiero y hacer previsiones para imprevistos por ejemplo epidemias o desastres naturales" 
-WHERE ID_INDICADOR = 5 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 5 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Consolidar el sistema de recolección apoyando a la  Municipalidad.  En conjunto con diferentes organizacionesbrindar  campañas de educación ambiental dirigidas a la comunidad .  Estar atentos a la aparición de botaderos clandestinos y notificarlo a la Municipalidad." 
-WHERE ID_INDICADOR = 6 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 6 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Mantener una comunicación eficaz con la Municipalidad respectiva de forma tal, que el sistema de recolección de residuos sólidos valorizables se mantenga y fortalezca.   Continuar brindando educación ambiental" 
-WHERE ID_INDICADOR = 7 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 7 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Vigilar que este indicador se mantenga bajo este número. " 
-WHERE ID_INDICADOR = 8 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 8 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Fortalecer la educación ambiental para que los vecinos mantengan  una actitud vigilante de la aparición de  botaderos clandestinos. 
 Promover ante su comunidad acciones de educación ambiental con el objetivo de fortalecer la recolección separada." 
-WHERE ID_INDICADOR = 9 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 9 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Mantener una buena comunicación con la Municipalidad con respecto del tema de la inversión en GIRS. 
 Educar ambientalmente a la población con el fin de que se convierta en agente de control de la contaminación por residuos sólidos en áreas comunes y vías ." 
-WHERE ID_INDICADOR = 10 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 10 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "La ASADA debe vigilar el mantenimiento rutinario  de la protección de las captaciones por parte Estado. Incluirlo como una actividad de rutina por lo menos una vez al año." 
-WHERE ID_INDICADOR = 11 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 11 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Vigilar que la demarcación de la zona protegida de las fuentes de agua se les dé mantenimiento rutinario ." 
-WHERE ID_INDICADOR = 12 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 12 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Actualizar cada 5 años al menos, al estudio del balance hídrico. 
 Capacitar a la comunidad en el un uso sostenible del agua. 
 Coordinar con ONGs, Ministerio de Educación Pública, Universidades y empresa privada para capacitar los grupos meta.
 " 
-WHERE ID_INDICADOR = 13 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 13 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Realizar campañas de educación ambiental dirigidas a la comunidad con el objetivo de continuar la reducción en el consumo de agua por persona por día. 
 Fomentar en agroindustrias o pequeñas industrias con procesos  húmedos, aplicar metodologías de producción más limpia.
 Contar con un registro mensual promedio para controlar eficientemente el consumo sostenible del agua ." 
-WHERE ID_INDICADOR = 14 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 14 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Actualizar el Plan de atención integral de riesgos al menos cada cinco años" 
-WHERE ID_INDICADOR = 15 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 15 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Actualizar el programas para adaptación al cambio climático al menos cada cinco años." 
-WHERE ID_INDICADOR = 16 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 16 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Mantener registos de  las pérdidas de agua contrastando la información recolectada, hacerlo de manera mensual ." 
-WHERE ID_INDICADOR = 17 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 17 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Presentar el documento SERSA, según las fechas establecidas por el  Reglamento 38924-S 2015.                                                                 " 
-WHERE ID_INDICADOR = 18 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 18 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Evaluar el sistema de desinfección actual para conocer su eficiencia.
 Vigilar  la operación eficiente del sistema de desinfección 
 Darle mantenimiento al sistema instalado" 
-WHERE ID_INDICADOR = 19 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 19 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Mantener un sistema de control de operación y mantenimiento para garantizar el servicio de agua potable a la comunidad ." 
-WHERE ID_INDICADOR = 20 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 20 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Mantener las condiciones para continuar con el sello de calidad sanitaria" 
-WHERE ID_INDICADOR = 21 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 21 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Continuar con las acciones para mantener la mínima morosidad.      " 
-WHERE ID_INDICADOR = 22 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 22 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Para un porcentaje de agua no contabilizada menor al 40%,
 la ASADA debe revisar  los componentes del acueducto y establecer  cuales  presentan pérdidas de agua, procurando disminuir el porcentaje de agua que se pierde." 
-WHERE ID_INDICADOR = 23 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 23 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Velar por el mantenimiento de la bandera azul ecológica.  Fomentar la colaboración con los diferentes actores sociales para garantizar la continuidad de este galardón, con el objetivo de fortalecer la educación ambiental." 
-WHERE ID_INDICADOR = 25 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 25 AND ID_TEXTO_MEJORA = 1;
 
 UPDATE AYUDAXINDICADOR
 SET TEXTO_MEJORA = "Continuar con los programas de educación ambiental." 
-WHERE ID_INDICADOR = 26 AND AND ID_TEXTO_MEJORA = 1;
+WHERE ID_INDICADOR = 26 AND ID_TEXTO_MEJORA = 1;
